@@ -1,1 +1,1 @@
-import contractAbi from '../Pay2Speak.json';
+import contractAbi from '../abis/Pay2Speak.json';
