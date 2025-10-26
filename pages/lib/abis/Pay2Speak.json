@@ -1,0 +1,12 @@
+[
+  {
+    "inputs": [
+      { "internalType": "string", "name": "name", "type": "string" },
+      { "internalType": "string", "name": "text", "type": "string" }
+    ],
+    "name": "postMessage",
+    "outputs": [],
+    "stateMutability": "payable",
+    "type": "function"
+  }
+]
