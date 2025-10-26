@@ -1,12 +1,6 @@
 [
   {
-    "inputs": [
-      {
-        "internalType": "string",
-        "name": "_message",
-        "type": "string"
-      }
-    ],
+    "inputs": [{"internalType": "string","name":"_message","type":"string"}],
     "name": "postMessage",
     "outputs": [],
     "stateMutability": "nonpayable",
